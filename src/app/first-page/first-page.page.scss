@@ -1,0 +1,20 @@
+ion-input {
+	border: 1px solid #cecece;
+	margin-top:300px;
+	padding-right:10px;
+    border-radius: 10px;
+}
+
+ion-label {
+  border-radius: 50%;
+  border: 1px solid lightgrey;
+  position: absolute;
+  left: 10px;
+  width: 46px;
+  height: 46px;
+  z-index: 9;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
